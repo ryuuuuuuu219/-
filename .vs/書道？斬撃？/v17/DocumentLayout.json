@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\assets\\script\\disclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\disclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\assets\\script\\combatsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\combatsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\assets\\script\\taskgenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\taskgenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|c:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\assets\\script\\analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\assets\\script\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\assets\\script\\mouseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mouseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\assets\\script\\rankingsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rankingsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\assets\\script\\requiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\requiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\assets\\script\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\assets\\script\\spowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\Plugins\\WebGL\\UnityroomRanking.jslib||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Plugins\\WebGL\\UnityroomRanking.jslib||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Library\\PackageCache\\com.unityroom.client@e4454788006b\\Api\\UnityroomApiClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unityroom.client@e4454788006b\\Api\\UnityroomApiClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\assets\\script\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9FE036-AEC8-2A09-4F6C-8ADCA7B8EB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnityroomApiClient.cs",
+              "DocumentMoniker": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Library\\PackageCache\\com.unityroom.client@e4454788006b\\Api\\UnityroomApiClient.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unityroom.client@e4454788006b\\Api\\UnityroomApiClient.cs",
+              "ToolTip": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Library\\PackageCache\\com.unityroom.client@e4454788006b\\Api\\UnityroomApiClient.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unityroom.client@e4454788006b\\Api\\UnityroomApiClient.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T04:09:13.75Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RankingSender.cs",
+              "DocumentMoniker": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\RankingSender.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\RankingSender.cs",
+              "ToolTip": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\RankingSender.cs",
+              "RelativeToolTip": "Assets\\script\\RankingSender.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:15:44.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "scenemanager.cs",
+              "DocumentMoniker": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\scenemanager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\scenemanager.cs",
+              "ToolTip": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\scenemanager.cs",
+              "RelativeToolTip": "Assets\\script\\scenemanager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:25:33.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "requiment.cs",
+              "DocumentMoniker": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\requiment.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\requiment.cs",
+              "ToolTip": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\requiment.cs",
+              "RelativeToolTip": "Assets\\script\\requiment.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:02:07.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "disclosure.cs",
+              "DocumentMoniker": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\disclosure.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\disclosure.cs",
+              "ToolTip": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\disclosure.cs",
+              "RelativeToolTip": "Assets\\script\\disclosure.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowIMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T16:12:49.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "compare.cs",
+              "DocumentMoniker": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\compare.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\compare.cs",
+              "ToolTip": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\compare.cs",
+              "RelativeToolTip": "Assets\\script\\compare.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAQwN0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T15:03:38.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "combatsys.cs",
+              "DocumentMoniker": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\combatsys.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\combatsys.cs",
+              "ToolTip": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\combatsys.cs",
+              "RelativeToolTip": "Assets\\script\\combatsys.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwE8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:38:09.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "analyzer.cs",
+              "DocumentMoniker": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\analyzer.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\analyzer.cs",
+              "ToolTip": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\analyzer.cs",
+              "RelativeToolTip": "Assets\\script\\analyzer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwF8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:34:09.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mouseinput.cs",
+              "DocumentMoniker": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\mouseinput.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\mouseinput.cs",
+              "ToolTip": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\mouseinput.cs",
+              "RelativeToolTip": "Assets\\script\\mouseinput.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:15:23.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "taskgenerate.cs",
+              "DocumentMoniker": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\taskgenerate.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\taskgenerate.cs",
+              "ToolTip": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\taskgenerate.cs",
+              "RelativeToolTip": "Assets\\script\\taskgenerate.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAgwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:36:57.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "spowner.cs",
+              "DocumentMoniker": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\spowner.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\spowner.cs",
+              "ToolTip": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\spowner.cs",
+              "RelativeToolTip": "Assets\\script\\spowner.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwEQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T11:40:04.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\UI.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\UI.cs",
+              "ToolTip": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\script\\UI.cs",
+              "RelativeToolTip": "Assets\\script\\UI.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAwK0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:38:18.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnityroomRanking.jslib",
+              "DocumentMoniker": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\Plugins\\WebGL\\UnityroomRanking.jslib",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\WebGL\\UnityroomRanking.jslib",
+              "ToolTip": "C:\\\u66F8\u9053\uFF1F\u65AC\u6483\uFF1F\\Assets\\Plugins\\WebGL\\UnityroomRanking.jslib",
+              "RelativeToolTip": "Assets\\Plugins\\WebGL\\UnityroomRanking.jslib",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-19T01:19:47.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
